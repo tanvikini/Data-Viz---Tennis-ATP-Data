@@ -1,0 +1,7 @@
+This is an academic Data Visualization project. This is an interactive dashboard created using Tableau.
+The data source can be found here - https://github.com/JeffSackmann/tennis_atp/blob/master/atp_matches_2019.csv
+
+The goal here is to study tennis matches and the attributes of winners. Analysing this data allows us to to predict
+how well a player might do in an upcoming tournament based on the attributes of winners in earlier matches. 
+
+The data source is a csv file read using Excel.
